@@ -28,7 +28,7 @@ I'm a Full Stack Developer with a passion for building scalable web applications
 
 ### Projects
 
-- [Node.Js Backend API](https://github.com/mujahidfarooqi/project1)
+- [Node.Js Backend API](https://github.com/mujahidfarooqi/NodeJsBackendAPI)
 
 ### 🎉 Fun Fact
 
