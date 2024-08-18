@@ -48,6 +48,7 @@ I'm a Full Stack Developer fueled by a passion for crafting **scalable web appli
 ### 💻 Projects
 
 - [Node.Js Backend API](https://github.com/mujahidfarooqi/NodeJsBackendAPI) - A powerful backend API built with Node.js, designed to handle requests efficiently.
+- [React.Js FrontEnd UI](https://github.com/mujahidfarooqi/React.js-FrontEnd) - An interactive and user-friendly frontend built with React.js, designed to provide a smooth and enjoyable experience for users with quick and easy navigation.
 
 ### 🎉 Fun Fact
 
